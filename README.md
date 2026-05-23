@@ -1,41 +1,113 @@
 # Hi there 👋, I'm Diyana Jayasekara
 
+<h3 align="center">💻 Software Engineering Student | Full Stack Developer | Tech Enthusiast</h3>
+
+---
+
 ## 🚀 About Me
-- 🎓 BEng (Hons) Software Engineering student – University of Westminster
-- 💻 Passionate about software development, web apps, and data analysis
-- 🌱 Currently learning Node.js, Spring Boot, and Flutter
-- ⚡ I love building projects that solve real-life problems
+- 🎓 BEng (Hons) Software Engineering student – University of Westminster / Informatics Institute of Technology (IIT)
+- 💻 Passionate about software development, web development and mobile development
+- 🌱 Currently learning Spring Boot, React Native and Flutter
+- ⚡ I love building projects that solve real life problems
+- 🚀 Aspiring Full Stack Developer
 
 ---
 
 ## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-2F5B9A?style=flat-square&logo=netbeans&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,nodejs,express,react,flutter,dart,mysql,firebase,git,github,postman,figma,vscode,idea&perline=6" />
+</p>
 
 ---
 
-## 📂 Projects
-- [Traffic Data Analyser](https://github.com/Diyana1111/traffic-data-analyser) – Analyze CSV traffic datasets and visualize results using Python.
-- [Feed the Future Website](https://github.com/Diyana1111/feed-the-future) – Charity-focused web project built with HTML, CSS, and JS.
-- [Weather Website](https://github.com/Diyana1111/weather-website) – Real-time weather info using API calls.
-- [QR Code Generator & Reader](https://github.com/Diyana1111/qr-code-project) – Python app for creating and scanning QR codes.
-- [My Portfolio Website](https://github.com/Diyana1111/My-Portfolio-Website) – My Portfolio Website built with ReactJS, HTML, CSS and JS.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Diyana1111&theme=tokyonight" />
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diyana1111&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=diyana1111&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 TRAAMP – Tourism Mobile Application
+- SDGP group project focused on Sri Lankan tourism
+- Features verified tour guides, AI-assisted travel support, maps, and secure authentication
+- Technologies: Flutter, Dart, Node.js, Express.js, Firebase, REST APIs, Figma
+
+### 🎓 University Enrollment System
+- Desktop-based university enrollment system using Java
+- Applied OOP concepts including inheritance, polymorphism and encapsulation
+- Technologies: Java, Java Swing, JUnit
+
+### 🌱 Feed the Future – Zero Hunger Awareness Website
+- SDG-focused responsive website promoting Zero Hunger awareness
+- Developed splash screens and volunteer engagement features
+- Technologies: HTML, CSS, JavaScript
+
+### 🌐 Personal Portfolio Website
+- Responsive portfolio website showcasing projects, education and skills
+- Deployed using GitHub Pages
+- Technologies: ReactJS, HTML, CSS, JavaScript
+
+### ✈️ Sri Lanka Travel API
+- API project related to Sri Lankan tourism and travel information
+- Technologies: Node.js, Express.js, REST APIs
+
+---
+
+## 📚 Currently Learning
+- Spring Boot
+- React Native
+- Flutter
+
+---
+
+## 🎯 2026 Goals
+- 🚀 Build more fullstack projects
+- 📱 Develop mobile applications
+- 🌍 Contribute to open source projects
+- 💼 Gain industry experience through internships
+- 🧠 Improve backend development skills
+
+---
+
+## 🏆 Certificates & Achievements
+
+### 📜 Certificates
+- Python for Beginners – University of Moratuwa
+- Java Essential Training – LinkedIn Learning
+- Postman API Fundamentals for Student Expert – Postman
+- Introduction to GitHub – Microsoft
+- Web Design for Beginners – University of Moratuwa
+- AI/ML Engineer Stage 1 – SLIIT
+- Learn Node.js – Scrimba(Cousera)
+- Learn Express.js – Scrimba(Cousera)
+- React Essentials – LinkedIn Learning
+
+### 🏅 Achievements & Extracurricular Activities
+- Awarded for selection into a Government University under the Physical Science stream – 2024
+- Event Volunteer – SHErlock 3.0 | IEEE Women in Engineering (WIE) of IIT – 2026
+- Member of IEEE Club of IIT – 2025
+- Member of Leo Club of IIT – 2024
+- Member of Rotaract Club of IIT – 2024
+- Member of Aesthetic Band – 2016
+- Member of Science Society – Sanghamiththa Balika Vidyalaya – 2023
 
 ---
 
@@ -43,6 +115,14 @@
 - 📧 Email: senadidiyana@gmail.com
 - 💼 LinkedIn: [Diyana Jayasekara](https://www.linkedin.com/in/diyana-jayasekara)
 - 🌐 Portfolio: [My Portfolio Link](https://diyana1111.github.io/My-Portfolio-Website/)
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diyana1111&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
