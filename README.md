@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🎓 BEng (Hons) Software Engineering student – University of Westminster / Informatics Institute of Technology (IIT)
 - 💻 Passionate about software development, web development and mobile development
-- 🌱 Currently learning Spring Boot, React Native and Flutter
+- 🌱 Currently learning Spring Boot and React Native 
 - ⚡ I love building projects that solve real life problems
 - 🚀 Aspiring Full Stack Developer
 
@@ -74,7 +74,6 @@
 ## 📚 Currently Learning
 - Spring Boot
 - React Native
-- Flutter
 
 ---
 
